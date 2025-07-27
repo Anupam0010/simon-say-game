@@ -34,3 +34,12 @@ background-color: #EA5B6F;
 .userflash{
     background-color: green;
 }
+#startBtn{
+width: 100px;
+height: 26px;
+background-color: black;
+color: white;
+font-weight: bold;
+}
+
+
