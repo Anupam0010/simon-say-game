@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+    
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 15px;
+    margin: 16px;
+}
+.blue{
+background-color:#77BEF0;
+}
+.yellow{
+background-color:#FFCB61;
+}
+.orange{
+background-color:#FF894F;
+}
+.pink{
+background-color: #EA5B6F;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
